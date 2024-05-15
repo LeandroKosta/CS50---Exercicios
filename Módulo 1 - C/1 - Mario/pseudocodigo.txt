@@ -1,0 +1,13 @@
+Prompts the user to enter a height between 1 and 8 (inclusive).
+Read user input and store it in a variable called height.
+While height is less than 1 or greater than 8: Print "Invalid entry.
+Enter height (1-8): " Read user input and store it in height.
+Print a space character according to the input number so that it can be used to form a pyramid.
+Print "#" for the purpose of looking like a pyramid.
+
+Solicita ao usuário que insira uma altura entre 1 e 8 (inclusive).
+Leia a entrada do usuário e armazene-a em uma variável chamada height.
+Enquanto height for menor que 1 ou maior que 8: Imprima "Entrada inválida.
+Insira a altura (1-8): " Leia a entrada do usuário e armazene-a em height.
+Imprima um caractere de espaço conforme o número da entrada para que o mesmo seja usado para formar uma pirâmide.
+Imprima "#" com a finalidade de parecer uma pirâmide.
