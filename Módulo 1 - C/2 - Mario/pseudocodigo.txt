@@ -1,0 +1,9 @@
+The program first prompts the user for the height of the pyramid and validates the input to ensure it is a number between 1 and 8.
+It then prints the pyramid using nested loops to print the correct number of spaces and hashes for each row.
+The program uses the getchar() function to read in characters from the user's input and the isdigit() function to check if the character is a number.
+It also uses a while loop to consume any remaining input on the line if the user enters invalid input.
+
+O programa primeiro solicita ao usuário a altura da pirâmide e valida a entrada para garantir que seja um número entre 1 e 8.
+Em seguida, ele imprime a pirâmide usando loops alinhados para imprimir o número correto de espaços e hashes para cada linha.
+O programa usa a função getchar() para ler caracteres da entrada do usuário e a função isdigit() para verificar se o caractere é um número.
+Ele também usa um loop while para consumir qualquer entrada restante na linha se o usuário inserir uma entrada inválida.
